@@ -1,0 +1,19 @@
+@media screen and (max-width: 480px){
+	.navbar-collapse{width: 100%;}
+	ul.menu{width: 100%;}
+	ul.menu li{display: block; width: 100%;}
+
+	.titulo-slide{font-size: 30px;}
+}
+
+@media screen and (max-width: 768px){
+	
+}
+
+@media screen and (max-width: 992px){
+	
+}
+
+@media screen and (max-width: 1200px){
+	
+}

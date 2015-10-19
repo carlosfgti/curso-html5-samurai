@@ -1,0 +1,184 @@
+/*Utilidades*/
+.oculto{font-size: 0px; margin: 0px; padding: 0px;}
+.logo{max-width: 200px;float: left;margin-top: 6px;}
+.clear{clear: both;}
+.titulo{
+    font-size: 26px;
+}
+.video-html5{max-width: 100%;}
+
+/*Cores*/
+.color-white{color: #FFF;}
+
+/*Backgrounds*/
+.bg-black{background: #000;}
+.bg-blue-one{background: #115169;}
+
+/*Background Parallax*/
+.background-fixed-1{background-image: url("http://localhost/curso-html5/imgs/background-parallax-home.png"); background-attachment: fixed;}
+.background-fixed-2{background-image: url("http://localhost/curso-html5/imgs/background-parallax.jpg"); background-attachment: fixed;}
+.background-fixed-3{background-image: url("http://localhost/curso-html5/imgs/background-parallax-pags.png"); background-attachment: fixed;}
+
+/*Tamanhos de fontes*/
+
+/*Btns*/
+.btn-saiba-mais{background-color: #115169;color: #FFF;padding: 17px 35px;font-size: 16px;font-weight: bold;border-radius: 3px;float: right;}
+.btn-saiba-mais:hover{color: #FFF; text-decoration: none;background-color: #337ab7;}
+.btn-saiba-mais2{
+    border: 2px solid #FFF;
+    padding: 15px 28px;
+    color: #FFF;
+    font-weight: bold;
+    border-radius: 5px;
+    display: inline-flex;
+}
+.btn-saiba-mais2:hover{color: #115169;background-color: #FFF;text-decoration: none;}
+.btn-saiba-mais3{
+    background-color: #FFF;
+    padding: 14px 40px;
+    white-space: normal;
+    color: #696969;
+    font-weight: bold;
+    border-radius: 4px;
+    font-size: 16px;
+}
+.btn-saiba-mais3:hover{
+    color: #000;
+    text-decoration: none;
+    background-color: #E0E0E0;
+    cursor: pointer;
+}
+
+/*Paddings*/
+.padding-10{padding: 10px 0px;}
+.padding-20{padding: 20px 0px;}
+.padding-30{padding: 30px 0px;}
+.padding-40{padding: 40px 0px;}
+.padding-50{padding: 50px 0px;}
+.padding-60{padding: 60px 0px;}
+.padding-70{padding: 70px 0px;}
+.padding-80{padding: 80px 0px;}
+
+
+/*Resets*/
+.navbar-toggle{background-color: #FFF !important;}
+.navbar-toggle .icon-bar{background-color: #333 !important;}
+.collapse{float: left !important;}
+
+
+/*Header*/
+.header{width: 100%;/* min-height: 65px; */padding: 11px;float: left;}
+ul.menu{list-style: none;float: left;margin-top: 17px;}
+ul.menu li{display: inline-block;}
+ul.menu li a{color: #FFF;margin-left: 14px;font-size: 18px;}
+
+/*Slide*/
+.slide{
+    padding: 110px;
+}
+.titulo-slide{
+    font-size: 52px;
+    font-weight: bold;
+}
+
+
+/*Detalhes do Curso*/
+.detalhes-curso{}
+.detalhes{ padding: 20px;	}
+.detalhes:hover{cursor: pointer; background-color: #115169; border-radius: 20px;color: #FFF;box-shadow: 2px 2px 15px #505050;}
+.titulo-detalhe{
+    font-size: 16px;
+}
+
+
+/*Propaganda*/
+.propaganda{}
+.titulo-propaganda{
+    font-size: 22px;
+    max-width: 60%;
+    margin: 0px auto;
+}
+
+
+/*Cursos*/
+.cursos{}
+.box-detalhes-curso{}
+.img-curso{
+    max-width: 200px;
+}
+.titulo-curso{
+    font-weight: bold;
+    font-size: 20px;
+}
+.descricao{
+    font-size: 12px;
+}
+
+
+/*Propaganda Dois*/
+.propaganda-dois{}
+
+
+/*Sessao Mais Detalhes*/
+.mais-detalhes{padding-top: 60px;}
+.img-desginer-responsivo{max-width: 200px;}
+.texto-detalhe-whidth{max-width: 270px;}
+
+
+/*Footer*/
+.footer{
+    background-color: #696969;
+}
+.titulo-footer{
+    font-size: 22px;
+}
+ul.menu-footer{
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+ul.menu-footer li{
+    display: block;
+}
+ul.menu-footer li a{
+    color: #FFF;
+    font-weight: bold;
+}
+ul.menu-footer li a:hover{
+    color: #E0E0E0;
+    text-decoration: none;
+}
+ul.redes-sociais{
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    float: left;
+    width: 100%;
+    clear: both;
+    min-height: 33px;
+}
+ul.redes-sociais li{
+    display: inline;
+    padding: 12px;
+    color: #FFF;
+    background-color: #BFBFBF;
+    margin: 2px;
+}
+ul.redes-sociais li:hover{
+    background-color: #000;
+}
+ul.redes-sociais li a{color: #FFF !important;}
+
+
+/*CopyRight*/
+div.copyrigth{
+    text-align: center;
+    margin: 0px;
+    padding: 10px;
+    background-color: #585858;
+}
+p.copyright{
+    margin: 0px;
+    color: #FFF;
+    font-size: 12px;
+}
